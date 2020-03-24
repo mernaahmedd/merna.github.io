@@ -1,0 +1,71 @@
+div {
+    background-color: floralwhite;
+    width: 850px;
+    height: 650px;
+}
+
+h1 {
+    font-family: 'neuzeit-grotesk', sans-serif;
+
+    font-weight: 700;
+    font-size: 47px;
+
+    font-style: normal;
+    color: darkgrey;
+    margin-left: 235px;
+    margin-top: -550px;
+}
+
+h2 {
+    font-family: 'neuzeit-grotesk', sans-serif;
+    color: darkgrey;
+    opacity: 90%;
+    font-weight: 300;
+    font-size: 36px;
+    margin-left: 208px;
+   font-style: normal;
+    margin-top: -30px;
+}
+h3 {
+    font-family: 'neuzeit-grotesk', sans-serif;
+    color: darkgrey;
+    opacity: 90%;
+    font-weight: 300;
+    font-size: 15px;
+    margin-left: 320px;
+   font-style: normal;
+    margin-top: -10px;
+}
+
+h4 {
+    font-family: 'neuzeit-grotesk', sans-serif;
+
+    font-weight: 600;
+    font-size: 32px;
+  font-style: normal;
+    color: darkgrey;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+h5{
+      font-family: 'neuzeit-grotesk', sans-serif;
+    color: darkgrey;
+    opacity: 90%;
+    font-weight: 300;
+    font-size: 15px;
+    margin-left: 320px;
+   font-style: normal;
+    margin-top: 80px;
+} 
+h6{
+   font-family: 'neuzeit-grotesk', sans-serif;
+
+    font-weight: 600;
+    font-size: 32px;
+  font-style: normal;
+    color: darkgrey;
+    margin-left: 260px;
+    margin-top: 70px;
+} 
+}

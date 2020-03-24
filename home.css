@@ -1,0 +1,37 @@
+body{
+    background-color: #eeffa8;
+}
+
+
+p.ex1 {
+   
+    
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    color:darkgreen;
+    font-size: 100px;
+    line-height: -50;
+}
+a{
+       color:darkgreen;
+}
+h1 {
+    
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+    margin: -5px 50px 0 50px;
+   
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+margin-top:-590;
+}

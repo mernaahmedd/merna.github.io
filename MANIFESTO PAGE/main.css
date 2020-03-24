@@ -1,0 +1,112 @@
+body {
+    background-color: greenyellow
+}
+
+.typewriter h1 {
+    font-family: 'Cousine', monospace;
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+    color: darkolivegreen;
+    overflow: hidden;
+    border-right: .50em solid darkgreen;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .10em;
+    animation:
+        typing 3.5s steps(30, end),
+        blinking-cursor .5s step-end infinite;
+}
+
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+
+@keyframes blinking-cursor {
+
+    from,
+    to {
+        border-color: transparent
+    }
+
+    50% {
+        border-color: darkgreen;
+    }
+}
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: darkgreen
+}
+
+
+#lineZero {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
+#lineOne {
+
+    font-family: 'Work Sans', sans-serif;
+    color: darkgreen;
+    margin-top: 80px;
+
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+
+
+}
+
+/* Start http://www.cursors-4u.com */
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://ani.cursors-4u.net/nature/nat-11/nat1048.cur), auto !important;} /* End http://www.cursors-4u.com */
+
+/* End http://www.cursors-4u.com */
+
+
+h4 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 24px;
+    background-color: yellow;
+    width: 200px;
+    padding: 100px;
+     width: 100px;
+    height: 100px;
+    margin-left: 550px;
+              
+
+
+
+}
+
+ h5 {
+    font-family: 'DM Serif Text', serif;
+    margin-left: 20px;
+    font-size: 40px;
+    text-align: left;
+    color: darkgreen;
+}
+
+h6 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    float:left;
+    padding: 20px;
